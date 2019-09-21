@@ -1,0 +1,32 @@
+{
+  "name": "yargs-crud",
+  "version": "1.0.0",
+  "description": "A basic Command Line Based Application developed from scratch using NodeJS, Yargs and Chalk. perform CRUD functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hijazi313/node-yargs-crud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "git",
+    "github",
+    "yargs",
+    "cli",
+    "chalk"
+  ],
+  "author": "Muhammad Hamza Asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hijazi313/node-yargs-crud/issues"
+  },
+  "homepage": "https://github.com/Hijazi313/node-yargs-crud#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^14.0.0"
+  }
+}
